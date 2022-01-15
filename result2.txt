@@ -1,0 +1,3 @@
+66.249.73.135 - - [18/May/2015:03:05:34 +0000] "GET /misc/Title.php.txt HTTP/1.1" 500 - "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.73.135 - - [18/May/2015:15:05:42 +0000] "GET /misc/Title.php.txt HTTP/1.1" 500 - "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+64.131.102.243 - - [20/May/2015:14:05:16 +0000] "OPTIONS /projects/xdotool/ HTTP/1.1" 500 626 "-" "Microsoft Office Protocol Discovery"
